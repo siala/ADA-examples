@@ -1,2 +1,9 @@
-# -ada-examples
-This repository contains a couple of examples written in based for INSA students. 
+# ADA-examples
+
+This repository contains a couple of simple examples written in the ada programming language. 
+
+Quick compilation instructions: 
+
+$ gnatmake example.adb
+
+This generates the binary file "example". 
